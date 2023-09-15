@@ -19,6 +19,7 @@ header {
   width: 100%;
   color: white;
   background-color: black;
+  font-size: larger;
 }
 
 #ramen-menu {
@@ -56,11 +57,11 @@ header {
 }
 
 .name {
-  bottom: 60px;
+  bottom: 130px;
 }
 
 .restaurant {
-  bottom: 20px;
+  bottom: 90px;
 }
 
 form {
